@@ -31,7 +31,7 @@ Documentar experimentos práticos realizados no Cisco Packet Tracer para consoli
 
 ---
 
-## 🔬 Experimento 2: Roteamento Básico (se você fez)
+## 🔬 Experimento 2: Roteamento Básico
 
 ### Topologia
 - 2 PCs + 1 Switch + 1 Roteador
